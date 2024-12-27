@@ -122,7 +122,7 @@ def main():
 
     st.title("Fin 101")
     st.header("Welcome to Fin 101")
-
+    st.write("lorem ipsum")
     question = st.text_input("Ask a question!")
 
     if question:
